@@ -1,0 +1,237 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#cvOutput {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#downloadBtn {
+    margin-top: 20px;
+    background-color: #007bff;
+}
+
+#downloadBtn:hover {
+    background-color: #0056b3;
+}
+
+/* Circle shape for user picture */
+.circle-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #007bff;
+    margin-bottom: 20px;
+}
+
+/* Template 1: Professional Style */
+.template1 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.template1 h2 {
+    color: #007bff;
+}
+
+.template1 h3 {
+    color: #28a745;
+}
+
+/* Template 2: Modern Style */
+.template2 {
+    background-color: #e9ecef;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.template2 h2 {
+    color: #dc3545;
+}
+
+.template2 h3 {
+    color: #17a2b8;
+}
+
+/* Template 3: Creative Style */
+.template3 {
+    background-color: #fff3cd;
+    padding: 20px;
+    border: 1px solid #ffeeba;
+    border-radius: 8px;
+}
+
+.template3 h2 {
+    color: #856404;
+}
+
+.template3 h3 {
+    color: #d39e00;
+}
+
+/* Template 4: Minimalist Style */
+.template4 {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #f8f9fa;
+    border-radius: 8px;
+}
+
+.template4 h2 {
+    color: #6c757d;
+}
+
+.template4 h3 {
+    color: #343a40;
+}
+
+/* Template 5: Elegant Style */
+.template5 {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+}
+
+.template5 h2 {
+    color: #212529;
+}
+
+.template5 h3 {
+    color: #6c757d;
+}
+
+/* Template 6: Bold Style */
+.template6 {
+    background-color: #dc3545;
+    padding: 20px;
+    border: 1px solid #c82333;
+    border-radius: 8px;
+    color: white;
+}
+
+.template6 h2 {
+    color: #ffc107;
+}
+
+.template6 h3 {
+    color: #ffffff;
+}
+
+/* Template 7: Tech Style */
+.template7 {
+    background-color: #343a40;
+    padding: 20px;
+    border: 1px solid #23272b;
+    border-radius: 8px;
+    color: white;
+}
+
+.template7 h2 {
+    color: #17a2b8;
+}
+
+.template7 h3 {
+    color: #ffffff;
+}
+
+/* Template 8: Classic Style */
+.template8 {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+}
+
+.template8 h2 {
+    color: #000000;
+}
+
+.template8 h3 {
+    color: #333333;
+}
+
+/* Template 9: Fun Style */
+.template9 {
+    background-color: #ffc107;
+    padding: 20px;
+    border: 1px solid #e0a800;
+    border-radius: 8px;
+}
+
+.template9 h2 {
+    color: #dc3545;
+}
+
+.template9 h3 {
+    color: #ffffff;
+}
+
+/* Template 10: Corporate Style */
+.template10 {
+    background-color: #007bff;
+    padding: 20px;
+    border: 1px solid #0056b3;
+    border-radius: 8px;
+    color: white;
+}
+
+.template10 h2 {
+    color: #ffffff;
+}
+
+.template10 h3 {
+    color: #ffc107;
+}
